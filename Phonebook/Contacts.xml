@@ -1,0 +1,26 @@
+<phonebook>
+ <contact>
+  <name>?????</name>
+  <mobile>+399999999999</mobile>
+ </contact>
+ <contact>
+  <name>Andrey</name>
+  <mobile>+380000000000</mobile>
+ </contact>
+ <contact>
+  <name>Anton</name>
+  <mobile>+700000000001</mobile>
+ </contact>
+ <contact>
+  <name>Dima</name>
+  <mobile>+311111111110</mobile>
+ </contact>
+ <contact>
+  <name>Kirill</name>
+  <mobile>+311111111111</mobile>
+ </contact>
+ <contact>
+  <name>Olya</name>
+  <mobile>+377777777777</mobile>
+ </contact>
+</phonebook>
